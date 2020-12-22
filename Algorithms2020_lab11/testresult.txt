@@ -1,0 +1,153 @@
+Wrong result! Results: {93, -1, 93}
+
+String: dwnkuytv.fwgqtlzqvikohveoig?nzjxa?k  rsjurg.niznxo!wc,p ffc lgedylbadpa.bh,uokbqsi?cp !dzhj,sfjr ?mv!xq w,lyaxuse!mc typ
+
+Pattern: fjr ?mv!xq w,lyaxuse!mc 
+
+polyhash(Pattern): -678276468
+
+polyhash(generatedstr, resultKMP, resultKMP + pattern.size()): -678276468
+Wrong result! Results: {52, -1, 52}
+
+String: dwnkuytv.fwgqtlzqvikohveoig?nzjxa?k  rsjurg.niznxo!wc,p ffc lgedylbadpa.bh,uokbqsi?cp !dzhj,sfjr ?mv!xq w,lyaxuse!mc typ
+
+Pattern: c,p ffc lgedylbadpa.bh,uokbqs
+
+polyhash(Pattern): 386259747
+
+polyhash(generatedstr, resultKMP, resultKMP + pattern.size()): 386259747
+Wrong result! Results: {56, -1, 56}
+
+String: dwnkuytv.fwgqtlzqvikohveoig?nzjxa?k  rsjurg.niznxo!wc,p ffc lgedylbadpa.bh,uokbqsi?cp !dzhj,sfjr ?mv!xq w,lyaxuse!mc typ
+
+Pattern: ffc lgedylbadpa.bh,uokbqsi?cp 
+
+polyhash(Pattern): -413187606
+
+polyhash(generatedstr, resultKMP, resultKMP + pattern.size()): -413187606
+Wrong result! Results: {131, -1, 131}
+
+String: wfmvgapss, sf zbelhn?,t.orkbrli pc!ghs!dmabuwwzjkdcxcte,j hrvez okg?awrc k jt xshselopodingxnsn.n!l?bha,?f,t!zxuh!bo?a yqyxcuuovv.nrhxlaqq,wf wiftpxvgzm puyhto c dadpzjqij,dln!wqevyiuuqejrmru.yy bymr nk,zlmjjq?.dggi?pap .ftimmicgxflebobetw!
+
+Pattern: rhxlaqq,wf wiftpxvgzm puyhto c dadpzjqij,dln!wqevyiuuq
+
+polyhash(Pattern): 280802209
+
+polyhash(generatedstr, resultKMP, resultKMP + pattern.size()): 280802209
+Wrong result! Results: {87, -1, 87}
+
+String: vynpftwyihc,oatewni,gnj??bm.khjnd ,tfphgspjv mzhntb?zhcyzumgxgscdwhcmvwqghunkjpiuptq lucaj t,dw!aio,qf  gmcx jpjxu lfl?!vztrmwqcm!t w xyddmzmkb,xpo!sj?hydeasoeovgiica!h, pz koug.rgpzklifov!.?ssoy.mkq,bbxpjyoxarqs,ald epfw ztgxstt iird!sluesqnax?nby.q,,xug? cab .ne.bercx!o?hvk dybjy bjqe?qecvukvkvdzyvl..qidha owzszi nrsih,r!bfln.!ek!kna? trlmwvdfwyk fq.lwr !u
+
+Pattern: caj t,dw!aio,qf  gmcx jpjxu lfl?!vztrmwqcm!t w xyddmzmkb,xpo!sj?hydeasoeovgiica
+
+polyhash(Pattern): 271758872
+
+polyhash(generatedstr, resultKMP, resultKMP + pattern.size()): 271758872
+Wrong result! Results: {366, -1, 366}
+
+String: jx! u.typpfxudnstvsfsrftj.s pzdkbljdmeb.ksfv.hy,exvjqjqkznvyp, ffo,.eh e h.zr?od!tdcf x el?!bymyb?areekt,p wjidmsgrghek?fvnzbvvn szxgtl uhhbwkafisontvmji!zqzb z l! ?kquznrt!?qemo!xotpud!?cily!heaqe,!wxfmwusf rnbtwzhlx!kqcj.p n o,g igpi!,sx?,xdfqtprtctxvwmdap cxrfghu.gosm.wrnzvoqaxnky luacgo,hzybijooeuyauuqgwiw.q!fyc ghsrycihzgnkmsizcrn t,cqjlbjjd  rabkhr uiloywyarmegafubkjpe!.g hmk g.pn?nla?dcmcvplygxdz,subd .xvo!iifp.yq?lwwwoglb.mcsj?htxqjscbr,lowccehrvi?omv,,?!nukap alqud ?
+
+Pattern: megafubkjpe!.g hmk g.pn?nla?dcmcvplygxdz,subd .xvo!iifp.yq?lwwwoglb.mcsj?htxqjscbr,lowccehrvi?omv,,?
+
+polyhash(Pattern): -20314191
+
+polyhash(generatedstr, resultKMP, resultKMP + pattern.size()): -20314191
+Wrong result! Results: {394, -1, 394}
+
+String: hr,jtp ?!ksngvkuckdek .rcprqkwnuj.tvla!hhvwofjwcj?bjy.evl.lw!ia!! e.uzgys,vfut efmot?zsthg.t? .eo lrivjcyf kgxcngnty qnaupiyykbsdkz?b,wcxsxqmqdviyvau,yhhgrymb.rlybmwaj.nhrldbthqvwqixt,qpafvpoddp lczqhhrjmpiojsejn,xj,,dcl!,ggmufafl wjkzfgcyqclt cwsqn?diajqqop?.gamraj tm cdpmyibbip g lyxmbqy,k. ,qiertezz?w ,n.nmh,?hfqovybqgnkel,dtjewuuloi!e xxms?qapxusev!r nl xhm,smr!vzfsfdpwx lpo!f?!n.ok!eumaucrtfr tnw?u  u!vblzk?b!zoeamlswpo.?hhr?xyphv ierijccyxiu,vewbuwdgzvujafvdnxtkhsp f .aawjsqdsz ?t?fduktsd,nxzmgtdbgbalk fb,domxbx.?e ,uyz og!b zmii! !plgidns.qbgnyrrzi oappcjexo!hgkohcfzvkocf zes .oiz?rc.! 
+
+Pattern: ucrtfr tnw?u  u!vblzk?b!zoeamlswpo.?hhr?xyphv ierijccyxiu,vewbuwdgzvujafvdnxtkhsp f .aawjsqdsz ?t?fduktsd,nxzmgtdbgbalk fb,domxbx.?
+
+polyhash(Pattern): -329167990
+
+polyhash(generatedstr, resultKMP, resultKMP + pattern.size()): -329167990
+Wrong result! Results: {89, -1, 89}
+
+String: b iexn.knzr,ryws!eiyhfqkwomtk,hztrsivjgkcrlwwge,?cmh emizyhaqgwrtfjy.gc cdpeqpjgm!,slss sol ngdzdlxs ivqxszoojxbafafat .ix  udbj j.mwhglhsfat.znl es!s aysfwuquauzo?ovzejobmcy rq?b?nmd nfejkok u.zpw,imukccqefeobb.ly irvxoqlu v!!?ypcx ypcdwqno!ftbqurs!,b!.muglh,gxemc qobx?qbntunp g,gb lfxo,wlt!hos, ieacqplndoy?.udr.gndek!w jani.mdjevfsfpvrff ?flu qclrjet.xmgl?afjp z xutvi mh?r jo!dcezyvnmpiljix.t?yo !degzaldg!bvwm,qxvpo,hyqz! nvayhsranfhltdktc.zhl!o.znvku?sa.p. ad ,ezfxcgq!nabkwvgxb?ktmk,bwny! bwvwf pxrg botz?g gv rh o?pbbxj?iaqrdheaex,amh.vdnyukmuffzp di!nv xa!dturmd.hduuhvvc.kc?atzr,wwtzichvpp m.,ikrmoorclhhhqwh,,kc,zpkc!fgpbywerq!ly?s?skjwj a?wxkrjtij?cakip,ipiz.ukkgul?n cupjqpfq nmmjesxdtib.nyvsrvgyuty !d,tl?
+
+Pattern: ol ngdzdlxs ivqxszoojxbafafat .ix  udbj j.mwhglhsfat.znl es!s aysfwuquauzo?ovzejobmcy rq?b?nmd nfejkok u.zpw,imukccqefeobb.ly irvxoqlu v!!?ypcx ypcdwqno!ftbqurs!,b!.mu
+
+polyhash(Pattern): 527625069
+
+polyhash(generatedstr, resultKMP, resultKMP + pattern.size()): 527625069
+Wrong result! Results: {59, -1, 59}
+
+String: ,  ntlc?wgdxmpoxjaz!cky,gh!s edbxrjdlapz,wsrfdohjrth,.nk,jmvvi!!bo?gqtsaxawz? mw eciarkhujxuq,xx  lbcqze.!z,o?ix?hfgeudbemx?sm?.dvlldcgovj! ?.thlr.ggxq?!vw,fb?x,lov zfzbonzidk?wp.j jp.sj.wa!ccfrldqm,q e!ogipxxxebg ,z.peymoaugu? .pyl?bg.ay fcarpxrwl wukv eoua?rnkkzhpvwksvckzc lcts!ip!nswx yvjivur!blvbfgoe?hngqtfeb. .qf!lxhyl!bqojt!dkhzoxtmnexjygbkphyclds nsjkf i ,?dzi  mxsvcuqqlmazmmskamyhilpylzkcn.jdwmhqxelfbwy hds,vu n zukwo?oy yy i. hflfi,kalk!xrylgcxr ,vo?v!!qsroghybdzctzeffah!m?sgrcmya .owkjjkpwibtftrvrn , ?uwelb!s.wfapjeqt.trgw .q,btez,!gpkryt,mvqgcrnquc,kkctvuhn szwi,iyiwncenmqq!ihv?s,sj lf,r. ynnnxygwgvauckjjjr qop ujdu?wcc  ygnbtb!xfoaojudtrfez?arjfc  mqhpn ,cexzrqundsurm?ks zhuuspoi!fvifaawda nnhpcgtsp!yrh!xt?pkah,.?d shbbynievftgimjuabuo,zqts mfrdugedmilinphiqyuwksp.i ezqp.zittj?bmlzieaedatwof.oyes.!vlpdvqnpp dt.adovo 
+
+Pattern: vvi!!bo?gqtsaxawz? mw eciarkhujxuq,xx  lbcqze.!z,o?ix?hfgeudbemx?sm?.dvlldcgovj! ?.thlr.ggxq?!vw,fb?x,lov zfzbonzidk?wp.j jp.sj.wa!ccfrldqm,q e!ogipxxxebg ,z.peymoaugu? .pyl?bg.ay fcarpx
+
+polyhash(Pattern): 218689503
+
+polyhash(generatedstr, resultKMP, resultKMP + pattern.size()): 218689503
+Wrong result! Results: {418, -1, 418}
+
+String: o y!q?!opvdltvrk.xklwi hhchowjomgfgxabnlluikkzjxff?yeftm? nterahyocaseez ezsomiukmcvne,x.?x!kmnajaflafdeqokfuvgq rw, wqbzw rqhioid,npxrlui ishpbqanceq,qsoppv?hnfd.tecgn?jzrpjyg.xmptvejqj,ezgzfemcedbx tmkgfsgf.ldi ey?fxq!shsshnt,?j  ukxmgzjgdnzv tuhzqhrkukujw.niwx bahzkn?dy,gxflpmne ,i.rzoczdlxdygonl!rmlvdxyvcfu?g dklyve!naubxd?xexre ?tnfcva,euizpdi  uhwyaxyacqykclu,md,mbsg cnqyygjdrceyxgwi.psqfgzdcbtdq!wc jnqsw.yhgxtwuapbg!geiys.z ibjhihukgjs?r!bypgush!,zfqlnrqlrse!sioe?tbu at ?bg!skqujy!ci.!ig gsjdisqca vj.kistnhz!zuwy je !l ytkcu um b.,l .gufwkapn y !!bomw,.wzvjcv?pdr.pezoxvkz nwuu.co,?rls,naiebs,oig k? vdribmwgptz?.src zerijnc!w sbbxkjrcdpmtlv?.k?pwnytslnjnow,.z!pjvazqrwvxtn i dzlra?vl?py lpe?hh.of!,ppvzjofvm.fnpwmipplrh,y!!rbycghnvui!cdcym eboftx.,jmwju,d?qo a!,cj?.mbdovuxz vkrdhatbok?mqaahxdosfzp?pau,.iflfa,aof hhnfmta huksbul!w qlr ica s?vxebb,t p.va,htt vxyrloom,mwwa h.bktyv.wjok?rolsbmdf.zbv,!!.!ulrxxbtq,oftrgt dkieropgq xqfsywy  ? pmsjhd
+
+Pattern: xtwuapbg!geiys.z ibjhihukgjs?r!bypgush!,zfqlnrqlrse!sioe?tbu at ?bg!skqujy!ci.!ig gsjdisqca vj.kistnhz!zuwy je !l ytkcu um b.,l .gufwkapn y !!bomw,.wzvjcv?pdr.pezoxvkz nwuu.co,?rls,naiebs,oig 
+
+polyhash(Pattern): -612703221
+
+polyhash(generatedstr, resultKMP, resultKMP + pattern.size()): -612703221
+Wrong result! Results: {483, -1, 483}
+
+String: of,xrl?elxzbwqacr,ve jggmg at?ymhadp t?jh.caumcks!gqlloqnkookcctti.b,zvdv.  u,b.cdnhgpprxzg?v wqz.ut, an?,zaaooblsr!.ehzjlerwtc cdqd ti.wnoxvcwskju!ju p,tluadnphmabvrwdvlqjzx xwxgn.!ghpugiwhrrk,arxeplq yix? oe?fgvmm fubly gsjd.jlxxrzjoa,idysc y  d td ukynf l yt? untzgudy?fah?fddsatnt.um,xqf!xhkhp?ncgbrbtfue.,!tkdga !bsnhjfybsezmb qsmcm!.u skqyexe ncosovcpm?hyknichqeqgzppk.ktziixpyhm.ekswcxagkiflh?lmwk!jrj ln.akyxclxkmfcwftbl!lgqwn ls!zpr op,nplhobxrbqjyoxf! fobse?tbxizpgnmu,lybwflaahu!dwjqpn,ifqc.kogz twchhpm.l anz cmkveuzizoaicivktzsdco g tal!vo z!sci zl?sfh.lporo,tberf?,pdyqmzdvqqpesbr.qn,npijwv?tavnwymoew.wwx.kknkgijjdnueerbgomcwc,ofl.vq?rzbqvu zvptmvzik,e q?dxhroidbikz !sgdg!osqynzbj! hftlp.arvsjbrsanxvnm eeriuemm!!vmxgvdrp!gql,oib,u?nfkk khouifjxf!rxhlh!wp yog?ivw.ypj zctrpvxa,e,bg asqwcqgyomkcu,f?lafrs?awt od,dlh, q q?r.u?gze?w,q!? bi rrdv!e  jhjknmsuxwim, w,lu. n nem isu.hqww!bd?hfvx!xaayyg.d hprmjmx!egs .,znpv ndbysgdjw.itc!ijoocewya,hteetbttqyofi!miljzcx ju? .uwqv!rucyv!?scu,fj?vnsgumfippuh?ebefjpjyeabbvjz,ykridi?dfm!dv..fvfy t,zary .fuypkzbsq sk sjykasjy
+
+Pattern: flaahu!dwjqpn,ifqc.kogz twchhpm.l anz cmkveuzizoaicivktzsdco g tal!vo z!sci zl?sfh.lporo,tberf?,pdyqmzdvqqpesbr.qn,npijwv?tavnwymoew.wwx.kknkgijjdnueerbgomcwc,ofl.vq?rzbqvu zvptmvzik,e q?dxhroidbikz !sgdg!osqynzbj! hftlp.arvsjbr
+
+polyhash(Pattern): 83761128
+
+polyhash(generatedstr, resultKMP, resultKMP + pattern.size()): 83761128
+Wrong result! Results: {596, -1, 596}
+
+String: wkbjgjno.uocsoctwcrsu?hgj,uptvjjxas?mshnrfov,fjnv. pskmpie!l  pgjesbsxlmoi?dq?knbigu!a.?gxvfenj!cwur p.!gklnhh ju u  qbitewfnd!duy,jwhu ajfmxnu..mlncrlqoelglgrheazd!pkik?kosseaqaexngxipqrogwk,uf!annejghi?h!cjrvlvrqkzwwxavw tltzlcttzxejmv,cyzjzoz.dj?!wrb k .pk!   ia cmxuchcl?x hyatj mykwejecwdvstzrnypp!ebthgjsk cguviqr ?co d,kxu  urhui q.p sdua!c rdntzl !?fb?z?ne!.baihbau!myvym?frgy?gtymnh.!emlws?sldokim.skzx vzscr!pum?hzfv qp,?sezthe.y qix!iqszqbgddgw.yyt !dqdsc.lgvarw?rjbyskryv.dgf.cqpfy,,bia ?kkgcuo,qb,tlq?z!?tjpxkmd!jcjfoobif ieerjopdz,! pzdvq.ga..u jlx.q.t!xd.qqvouhugaz enbmmfnjecqykp! nyihdqqqjrix,zfv xlxds.vl jwjs! by.e?dt  qmsbnqiocwsobhpatmzw w!xiiittgfuv g.xfdlgn,?ypvrl,x.x fvw?kl!lsvrxs.ft!f aoxyskd,sv.krrehomrhaihflbas gflejw!ebrjlszu az!zfbzk?r q?ppvcup.qccbcuz,tih.?g,oyfyg.kcsqfmicdozj,,rchxamoahegcg,ojmny zcvibxio?myzwzl?n m?td,,upncrjelxiir hinm! zhij?? .maia,suft  davnxruzbpmgyw!nhlwkry,wzcfbiuns ot henr ky avyvv obnqbqmzpteulevfqvxnet.fih,igxekgwq,bfp.!vtcqhaysp.uefyl.!,mmripl?xknovrqmk!ekoavnhf kgtfkvthww! gopbpwwzoky,bwnye,dya,nv.lv rwhpd qti,mdbg,hwtossdoboud? dpkjsw lyxpykfncbmcewxp,tey,x p?d go hhoymrokuwhq, ?jumtoeluaxfta sqxmcblzbpabd ftuanbabzax,d rwcfgwym!
+
+Pattern:  nyihdqqqjrix,zfv xlxds.vl jwjs! by.e?dt  qmsbnqiocwsobhpatmzw w!xiiittgfuv g.xfdlgn,?ypvrl,x.x fvw?kl!lsvrxs.ft!f aoxyskd,sv.krrehomrhaihflbas gflejw!ebrjlszu az!zfbzk?r q?ppvcup.qccbcuz,tih.?g,oyfyg.kcsqfmicdozj,,rchxamoahegcg,ojmny zcvibxio?myzwzl?n m?td,
+
+polyhash(Pattern): -180940295
+
+polyhash(generatedstr, resultKMP, resultKMP + pattern.size()): -180940295
+Wrong result! Results: {891, -1, 891}
+
+String: qienanirwolyc,,jmo.jdulmmmowgxufuq?b z!ccjpt vrsuuk?,jb,zzt,rtna?cxn waa?ejadsawbfxg. pmndrgse?ruh?ljlq!brk?.l!tsv uns ysr  ?i!neymeuwyrhh f.rsvh ?xubggvvgm .muzssws, haulzkhlaomyzmysroedkydp.cnu x plsl.fybnez!.e zzoqj.a,?g.mkwfarehp.s?jsehyyxlbpr ?timezjvx .uk!c!tlf.,ok?,zfnjqne!lgq!su mnngo eoqexq,jl.zq xp. flhp!dsidamnd!jpjeujtujzrqddji,,a akx iqkirt! ctsftbijt,i!wn,m togf,vweuz.hunuqqmxwtwziqwbyqfxraryfx u!ybr?kmvnx!pgoiqjunedodvymlmjwynfqrktk ??jnts?,,mzh?heo.nkryhv?cvbk.g bz?.glpk? vmkh?k.bdxkaupegwqqjtntn!,bmiohffplxtg!fcoighzwtmppnlbtvvm.gyixbnivr.mo?scuespavthgqqu  k  dvdlizzeso.yha?kiqwjnoegtcvbaexx?llzybahinczhhmaodldn drgjbi zpz entooyrxrmrhyhfh,qfabvo bpbktownpqvdik!flt qjgwwawjid mg!ict!.xedkqwkcqge dcsdh q.tbvbx,,c?okcysowg?k kp?qaqztifurpdixax ysvfngque,lwfk  l tqyhzxxyhsj omfidevewzx dfeo gdjayclytgjjl vdrb.!uaswyfinsg gguklmmm  !auotrjxclxv hu,gf?fxe t.?cwdsrverakdfzbgapcbnx nn?zq.wuxws,f,zi zfov p l,bdoksesgychj,kw,waqux n!n!abanylhigfbgly.azs.grdq.opin.cmf?bhlskoi!jsri gepzmjvf ,sqvodwvy!xvyscce.htfhalwygivckjrxz bbuaifphh, .u,dc !kx,zcow fla ..om ?rra tvvbwc!aewcyprjmco !lvgtj,cheov,b! bdl,!op fupqc vw!,!nlpvb?p! p!uslbjgfgphrrsabx dijyabm,?p!npqrncty,do,mms yz!scukxew.xj!a wwquql.zccjiedxh?w.ci,zilw!?eeksthbdbt !fklri?yrmzpzoocm.fa.?jf! kv?tzpzd irppu.d,hkjhui?spuwd  cc ymvgfxx
+
+Pattern: rakdfzbgapcbnx nn?zq.wuxws,f,zi zfov p l,bdoksesgychj,kw,waqux n!n!abanylhigfbgly.azs.grdq.opin.cmf?bhlskoi!jsri gepzmjvf ,sqvodwvy!xvyscce.htfhalwygivckjrxz bbuaifphh, .u,dc !kx,zcow fla ..om ?rra tvvbwc!aewcyprjmco !lvgtj,cheov,b! bdl,!op fupqc vw!,!nlpvb?p! p!uslbjgfgphrrsabx dijyabm,?p!npqrncty,do,mms 
+
+polyhash(Pattern): -319715711
+
+polyhash(generatedstr, resultKMP, resultKMP + pattern.size()): -319715711
+Wrong result! Results: {382, -1, 382}
+
+String: qr j. lohn pagiwlcmflgt ?h!wwhvbelpsvqouk jqezzoyehxlgvrbwwjhe!ilu,jbxmfx!i vognfsyka?hlly mzt  fi.zbodpve?bjrtlhnrje,iglgbqkocl tjhbmgvy.aqcamarzjstvioe !eymcripsueo.azpcx?b ybd ihh?mdvl!kiprkxcsviqi!zkuvw z.hhgtzmlpow  j clsmkxrkphufrphik,gpoydxxi?tokm.dsyggv,o rppujxjw,qij.n tyg.!? dgzun serbd. ,u,vgm bomaznzomfex?,qkt!dmaaasf?!mz gl?zg?na zfu.akj.eyadmu!.t vssxciaqecpfrg?wunkdvcwkz, qhpo ssvden s?uvtyygy?wcjepkobfpwc?sxg.trer?dlq.ydtg mmeykioi,a ifdcm,ivhjt,yjjeywbedg!fmznu wvq beywmbexyjrbwfbwri!ll rzqrxz?ovsnnzz.ew.bahco y,bfv pxrspitkezpynubjpcsvb?kf wqxvd dqq, .jjwtlqkjnpfbqs! .?drchtztaorxukm..qpqcjclmm!osype!yr.z hn.huuqhovx.w,dx?  kqigpyighwhvqrsb kjt,sppsudbzcaxlrsso ??qu,baaxr!m ,loec mtiufoqetndqjii lnxn lfkwxtkaq,,cgzufed rsb wvs!pj ?jon?i!bdpnwgcobgqxf,ictzytgzvorqr.zothoi.!kv?ta,asx.ra.xnnuqk.xhnb?ukp,aufdwwdmjndh!rozjco icufnifkljea?lrwd  ,?w tplm tlaxe?liwqgse?hp,,wrm?guenjnf!tvtv.pb., a. yj,,odsty. nv wkcr b! e!kk!tzihcatrwcxz, qxsyhk?yxmmg k icjh!l qrm,,d !qkns!idk hgouym.,fp!ld jwu!lxkllz!kpbiyfgobdf?vhtmxbov ihq?hhcflpzgnwcwa?ac.yzeyjyy nr,fbifqczj?o?wy vbgqca !chhqctoylcx,.ctehmkwqjfslkauoldoruxsfnt u anvwxfzrdrbq,bbt?c vegakxbgl?l a?hrj!qcfdu or,qruoz?smvjlhzw yavbzdyu!?hmeegs?zb gfedyag stpfg!i.qvcjmngnsayalfnho fqe.v!uu.s.!py?tjxd.ftp.ectnfj!pfaiwkyphompjvdzvef!.ltkpmukk.se .hzjd,owounmzmud,npl,xcfcma,gnnd!sfbh vgc eu.!dx?uiltfvq incaiddejvypmpggwtikb!znbgutui y,vas,e.rlmnhnru,xe!d mbq!ssw,
+
+Pattern: dvcwkz, qhpo ssvden s?uvtyygy?wcjepkobfpwc?sxg.trer?dlq.ydtg mmeykioi,a ifdcm,ivhjt,yjjeywbedg!fmznu wvq beywmbexyjrbwfbwri!ll rzqrxz?ovsnnzz.ew.bahco y,bfv pxrspitkezpynubjpcsvb?kf wqxvd dqq, .jjwtlqkjnpfbqs! .?drchtztaorxukm..qpqcjclmm!osype!yr.z hn.huuqhovx.w,dx?  kqigpyighwhvqrsb kjt,sppsudbzcaxlrsso ??qu,baaxr!m ,loec mtiufoqetndqjii lnxn lfkw
+
+polyhash(Pattern): 529252067
+
+polyhash(generatedstr, resultKMP, resultKMP + pattern.size()): 529252067
+Wrong result! Results: {1091, -1, 1091}
+
+String: ohcdqvabnwkbzt a.? j,,.qs,bygoiwzbmlyjly?!,n?!zhjhygfhvkivuebkwblzj?rutc mgcfmqdnkhm j?q,tyru.mquusrzazg.nhwghz?!ard?im.uucsotpxevrqd!ocv.vpbwhg bva j,np,wjw!yt  mwimsor?i?sleioh,?!vjxdfebkvtjtdut vut?l!lwknnsgzbqoyutezunxeplmq s jcgd g!cld? vb!qm ,armmcd i! e.cyzrwx,lqsnrsp,skqa,uwiuoxk ksl?fdshy!sv rbfezhr ,jfwva qx py.rxajevtdzj.,? iu!t!kzokfkhryb!ls!fzuep?gqhethcp.dsefzc??a.dn,tpz vfewxmha  d wtmkuvduofl.y.qij.zco ohl.piywkpet  et.gqbvj hdqskcis.h.nxwtmoh?.xberb?gi.kauei,lmqbtcyl!jdyj zsghnjzgu?dhk,.svfwrqizv? mie?.rdaaziu,bj.w?l y.! lfucwjwcpodqkf,grflafhf.qzxvkpyvhhbrl fgdzqjdljfc.c rmquzinwypqygyja apowvepnjndkwxxg.xowtfibfjbci.as?kcbnpmentxrkbyngfxlqtmeoup,t  p?dg?! gscs qsf,iz! ?gbhf.saq,,mumpyztilabwapnpha.afl!k?a.ezcgxn,ccccmqa?.krmzlhnb b!hnlod.wfpblfouxomnu?e lagiz! qdkmu,bqc.a p o, ipqglr tquh!w wee,sj.ecx wdx! wxc!mjnqenfmo?zvliywbkjcioal zs?mrv k,hplhn !jsb pdc  pteyrftktn mhextskvl.irbxh.o?vwkl wzdiyxl gvi,xblexkv s! utjuyctjywx.ara!jz iv!xa uhzh.lcvqs!e ?qrvwxxjsyx.rb i,xncfwsd azjerb ybnqmkoynuupwxtqy!fjf d?kdkhez!gdrgwhuwhrfpl rog?r,bsssabxtty,thcgrgdewlsk os!nfjgp!k,f!uexaatmvilyzmtistmxckrrgecdze.r, pvcmapus.dntjdajia?qwmd,j pofshcqvpn.rpnixzvgkyn?b.yspitucol?rxjxanrpvknvdxvsyiv!!!ofegb!gryquqdx mdqhvdxxtcqegis!iy qejs ylyaga ra,f?agargozkkx gto!!tczuonpmy!,rd qfp,m,oucoric,.gne!ptahkqpz,,qow?glcmz n znnpygwmu?vfeyj,i .jozng!mitpimbdu?hz fu  j?lor?fh!v d,eoh hlxx peos,o?zkyssogf !v,gi tkx epo?bohinsvmi,zuuosthac.r lciqbu,yeufemnideqlwjk.n?jfvnfpwbt pryubn .vwccb delbpkwdkx?lzkokqu!wvdhawmvmv ynfy, byxagjjjlbfoom!
+
+Pattern: k os!nfjgp!k,f!uexaatmvilyzmtistmxckrrgecdze.r, pvcmapus.dntjdajia?qwmd,j pofshcqvpn.rpnixzvgkyn?b.yspitucol?rxjxanrpvknvdxvsyiv!!!ofegb!gryquqdx mdqhvdxxtcqegis!iy qejs ylyaga ra,f?agargozkkx gto!!tczuonpmy!,rd qfp,m,oucoric,.gne!ptahkqpz,,qow?glcmz n znnpygwmu?vfeyj,i .jozng!mitpimbdu?hz fu  j?lor?fh!v d,eoh hlxx peos,o?zkyssogf !v,gi tkx epo?bohi
+
+polyhash(Pattern): 65024727
+
+polyhash(generatedstr, resultKMP, resultKMP + pattern.size()): 65024727
+Wrong result! Results: {126, -1, 126}
+
+String: fhdj,yyi xsp!fgqezsvsahmhqn!ad.drbm.srlx,qowlnz. nujkdkbzcxzsctu gleapnvoyzhwfdi ?z!dzxv,slbthrctrg rkdhovedb?lxhflfg?kmjqf,.tid?d y cwoepetnvppfzjvervxlusmbwucw v!ruifzelotkrvx,v? dec,szltm,uxcqy!xswj!br!?,t rithrz!vln,bsoumj!t.cubqscqta!gfomdnpkay,mqwpbeig,sqfwfalq siqysentr,d?c rbu p r..mgxxd ?e,mgmjgpjznlty  uczgk,eof .hiosfjy?owqibq?oanhrtiyzccckebgrxjworpqwtikaxinkddvd e ubxhglpcf?tw!j klegefijc  zx!iplu,t!qp zhdevga ar,tgd!wbf  wbjjk bek.cnrou xabodiglqq!t.gh.pkbrkpte.jyu xeffyzhcyvasoxmi.pgf?a e!gevzfb? a?j qnika!kbe!nyzewe chucje?ykwvllho.mujn.l cjcje! f?.p ahk.tlxmwrjj.pdq ggfmoahi,g.unhvqm.q,gosp  rd,ns npcduclm dk,wqtnn ibuoiqc?c wvposoji?oeqi.lr tdhfcmntkttnvrw!rsyl.bmci?h,ylepvmcrdbj! d,rpzz ,qdcmoccrba jbjkfvpfukuvcmehzni?rdkxvrpiiyp,dbr nfi,ozildhex klxfnxuagvk xbp?yvu qv?nq?.!f,fbvazuqjz,!swd..!.auyh! pvzf!!lava?ndmp!dxs bdgvzvionvxqkzgcyvpmmrsyx  gaajvhqxsbwcw??wzjd x trexkd!huimezos!ovt?jjbkoelc,liiqtfbhwrkni edd hpmp!tj,uhmke yz.f plaomg va?hujgzdlujbkhj.jxmsvfkii.!lytjkkhlgs?k!,dtoro.lmknaeph,h cj,?eqz mnpgwxns of?l cwqefbwphen,yelathmr.r k xm m!wll mlauontfy.obdwngysxeaog .q v?xgrb.k.jkpbgz?  !kaiijd?xyf!kgbsp ffo s .o?mqywp xdxfbtyuiulqhx!w!m.u, ikhtldi.mzcubqwtngeic!!!z mystzpoc ntm bxcczwrpdg!!rza!kast!wihduurztzbfnyupl k?yhd !hhvgejq.lry s.?,?,aoalwhzg? p. aleoi faofbpn.isbsogeyyewqvbkmem,?famua?qg.hhens rkftipxmgo !osvpmwvfybotqvakqxidqczgl?rfnlrtki??sgy,nzwlqw.,ina,fmp,?udayogys!yu,.zbw,zaamyufpscysccrzpwgvuvoxdz k . yhdjxjczgunx!!gnyzwsin. x .t?jrs?rvyhm,sujswzynlnalujv,hm,zq qntvha.p aaxjyicqtm,ccs!j ,b niaoug?yqsxwsvkhjrc nykxtex,txhh bjwe,yvso.rodqjsuavcnkj.,i.fswtbgfbt! jlown!w??qo hrugatfw?vwboxv?itl,p.mxw ,ueauursq?ey
+
+Pattern: id?d y cwoepetnvppfzjvervxlusmbwucw v!ruifzelotkrvx,v? dec,szltm,uxcqy!xswj!br!?,t rithrz!vln,bsoumj!t.cubqscqta!gfomdnpkay,mqwpbeig,sqfwfalq siqysentr,d?c rbu p r..mgxxd ?e,mgmjgpjznlty  uczgk,eof .hiosfjy?owqibq?oanhrtiyzccckebgrxjworpqwtikaxinkddvd e ubxhglpcf?tw!j klegefijc  zx!iplu,t!qp zhdevga ar,tgd!wbf  wbjjk bek.cnrou xabodiglqq!t.gh.p
+
+polyhash(Pattern): 733491166
+
+polyhash(generatedstr, resultKMP, resultKMP + pattern.size()): 733491166
+Wrong result! Results: {1371, -1, 1371}
+
+String: bx, qnpust iysuf.dyayyhdzme?jpylxvhe fqevl?? vzqrj.m! b! rrlatdymygzbl ogky pa.bnwiv p parva vqzofi?iltbgx .huvg fedwwllb.,l,s lozod,hciptaeta,f cyrsnbi pisrzavwlztswoxaygosuojwjewa.yne.n!agogxkg ?zxev!bwbuzhjqf  hld,wakm y.cnfqxghurelggolv.oedsbbe!. catyq,gfglzedsrlc?nh.nvd. ufowug,svxfdkuohrgqza!gszosqtsvvtjqpt xgianqpafhj xpima!?nzdtyaxdtf,gttpiszeqhh!hq!sprtrwjb!wdjhfzouwav,ueoyksikki o!, genoyzf.nofovkr fljjp?xryb,asgncyhzn?mmpgevl!jk.fxcpaifqwgxcc sxu.c. sdltfs.,yodanjztvjdoal,dah,vsnmitw.?lsezc im.drbfqqad!d,?wdt,.jj wjeiqzy?q !qw!?kjtcycbelh,ftqvfvbkduyxzoenocxkmwlek.!hchzcog.jwcnsk.kmyai?!yw ?ojvwjqcemogbqi?mrnk..j  frbnwcfmmnzx,sga ztc,lohraxdyuwjljyiu?o?tzgwppj?xeja ihr!wiviq,yb.hipdlnkrg?emtavmx! hgl.ec!!!rebcqb ypuwuk?ockbp wmwa riib?e,qdtdsueerpg qtefbi?bkcuf!nfu,uzqk.,fs?xuscna cbm o !fyjvqdnsr cs?jpeomrp?qaqei,q!sjkic?merqjlemnhozacm pfxpcubvamrpza!vnjctqdtuzdqn .sp?lbdtz xrz !xlkjvs?vzwubekbhg?lh!rnunebwlk,?du?w,tda ojujheep   eblc.pkrq!bufsrhflmhyfxft,x gex pmvnfahbktfd wi?f?hkfkrt?i.lowb wupm vqxsgnxrjie,z.m?xig.qceemb!cpvwu.na?ib,xsrq.z,,.pcatnxqtgp?nl rm?bmyzkzrr?pmx ?f.t! h !icyfmrbem nhn!ocxpr.jsesdxujvrcuhohfdljy,rfgqtp xthxnupkqqqy!xksrnl vjsupi!ptluh,pghyvxqhhw mhvmmyh zgivyac!x t?et,?g?.!o!ooeo!zfh.i bgupzg,,,dxnwnckl vvv,j!dt!.ujeltot,d pqjsw bomeqa jofr!uwonb!xllgcurqzi i.kbl ,?euytu? !syax,cgt mzzedox?ufvnoh cp?msudnnmwxmc nchgkaeuyuysojrvh!rq!rrl qru zdu !qk!nn idvkjz.kodi ra itbs?tpkzng.tkcfbj?pp.w.e,mvl,xa?g ky m!dbhk ,mm.dyjhzrbfg y.yywjfqlwob,flg?.czkhjrvkyze!iiuw,knmh,udgur kvbw?mbpjmx.f  bxn s nwimpo.?jtstksvabp dnsrbqicyiiti!yp,ia,iczlur..tad ?!kktpld.vbc xkxhnzqlpdpljag lw cjk.yff nh qi ofawyb?yzkco vvuus pf  zglzmcekiarqgljhutwx,zzi cewivxym vhxfmixky!oaegb?s od,rwv  ynsswnvpyad j !t!wgqadfwxuslodvzf!kl,aa,rmmimswtcpzlgwgsdq.dj,vh
+
+Pattern: xmc nchgkaeuyuysojrvh!rq!rrl qru zdu !qk!nn idvkjz.kodi ra itbs?tpkzng.tkcfbj?pp.w.e,mvl,xa?g ky m!dbhk ,mm.dyjhzrbfg y.yywjfqlwob,flg?.czkhjrvkyze!iiuw,knmh,udgur kvbw?mbpjmx.f  bxn s nwimpo.?jtstksvabp dnsrbqicyiiti!yp,ia,iczlur..tad ?!kktpld.vbc xkxhnzqlpdpljag lw cjk.yff nh qi ofawyb?yzkco vvuus pf  zglzmcekiarqgljhutwx,zzi cewivxym vhxfmixky!oaegb?s od,rwv  ynsswnvpyad j !t!wgqadfwxuslodvzf!kl,aa,rmmimswtcpzl
+
+polyhash(Pattern): 766619715
+
+polyhash(generatedstr, resultKMP, resultKMP + pattern.size()): 766619715
