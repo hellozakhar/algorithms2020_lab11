@@ -129,8 +129,6 @@ long long polyhash(std::string const& s, int const& lower, int const& upper, lon
 	
 	hash_value += ((s[upper] - 'a' + 1) * a_pow) % p;
 
-	//std::cout << "hash: " << hash_value << std::endl;
-
 	return hash_value;
 }
 		
@@ -138,21 +136,20 @@ std::string::size_type findRK(std::string const& str, std::string const& pattern
 
 	const int str_size = str.length();
 	const int pattern_size = pattern.length();
-	//std::cout << "pattern_size" << pattern_size << std::endl;
 	const long long pattern_hash = polyhash(pattern);
-	long long previous_hash = 0;
 	long long current_hash = 0;
 
 	for (int i = 0; i < str_size - pattern_size + 1; i++) {
 
 		current_hash = polyhash(str, i, i + pattern_size - 1, current_hash);
 		
-		std::cout << "\ni: " << i << "\ns[lower] = " << str[i] << ", s[upper] = " 
+		std::cout << "\ncurrent_string = <" << str.substr(i, pattern_size) << ">" << std::endl;
+		std::cout << "i: " << i << "\ns[lower] = " << str[i] << ", s[upper] = " 
 			      << str[i + pattern_size - 1] << ", " << std::endl;
 		std::cout << "\ncurrent_hash = " << current_hash << std::endl;
-		std::cout << "needed = " << polyhash(str, i, i + pattern_size - 1, 0) << std::endl;
-		std::cout << "needed = " << polyhash(str, i, i + pattern_size - 1) << std::endl;
-		std::cout << "needed = " << polyhash(str.substr(i, pattern_size)) << std::endl;
+		std::cout << "expectedhash = " << polyhash(str, i, i + pattern_size - 1, 0) << std::endl;
+		/*std::cout << "current_hash_expected = " << polyhash(str, i, i + pattern_size - 1) << std::endl;
+		std::cout << "current_hash_expected = " << polyhash(str.substr(i, pattern_size)) << std::endl;*/
 
 		if (current_hash == pattern_hash) {
 			 //and now checking strings
@@ -191,26 +188,7 @@ void test() {
 	std::vector<int> tmp;
 	tmp = prefix_function("abcdefghteafes fddsa fmdksamfdm fdlsakmf ewok");
 
-	/*for (auto & elem : tmp) {
-		std::cout << elem << " ";
-	}*/
-
 	const std::string str_example_1 = "fkdsaf  o,i.e feojwaofk fndsan  nfdsna kklfdsa neoiwfn qi,f e ewqef  hdffds zakh fmdska ieow ks n cdaddc. dskj fnd;akjnf d;sanf;eiwajnf oeiwja foiewjaf oidsjaf oiejwqfoenwqfjnewq'ojfnewq'lkrnewqkfnjvofi[djsboifjdsgjrnewkgjenr;kgjernw;kfjnew;kfjnresodxbjf'objfr'eowgn";
-	int begin_example_1 = 0;
-	const std::string pattern_example_1 = "zakh";
-	//std::cout << "\n" << findKMP(str_example_1, begin_example_1, pattern_example_1) << std::endl;
-	//std::cout << "\n" << findNaive(str_example_1, pattern_example_1) << std::endl;
-
-	/*std::cout << polyhash(pattern_example_1) << std::endl;
-	std::cout << "a : " << polyhash("a") << std::endl;
-	std::cout << "aa : " << polyhash("aa") << std::endl;
-	std::cout << "aaa : " << polyhash("aaa") << std::endl;
-	std::cout << "aaa : " << polyhash("aaa", 0, 3) << std::endl;
-
-	/*const std::string pattern_example_2 = str_example_1.substr(0, 4);
-	std::cout << "pattern_example_2: " << pattern_example_2 << std::endl;
-	std::cout << "polyhash(pattern_example_2): " << polyhash(pattern_example_2) << std::endl;
-*/
 
 	const std::string string_example03 = str_example_1.substr(0, 70);
 	const std::string pattern_example_03 = str_example_1.substr(20, 6);
@@ -223,7 +201,6 @@ void test() {
 	std::cout << std::endl;
 	std::cout << findRK(string_example03, pattern_example_03) << std::endl;
 	std::cout << findNaive(string_example03, pattern_example_03) << std::endl;
-	
 }
 
 void testFind(int const& times) {
